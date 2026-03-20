@@ -113,6 +113,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ihabKhammouma/ihabKhammouma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ihabKhammouma/ihabKhammouma/03f223a9fb6c6e629b667aef759f16491dbae950/snake.svg" alt="Snake animation" />
 
 ###
